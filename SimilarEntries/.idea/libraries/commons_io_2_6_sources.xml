@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="commons-io-2.6-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar!/" />
+      <root url="jar://D:/Downloads/org-apache-commons-codec.jar/org-apache-commons-codec.jar!/" />
+      <root url="jar://D:/Downloads/commons-codec-1.7.jar/commons-codec-1.7.jar!/" />
+      <root url="jar://D:/Downloads/junit-4.3.jar/junit-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org-apache-commons-codec.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/spring-framework-5.1.1.RELEASE-docs/javadoc-api/org/springframework" />
+      <root url="file://$USER_HOME$/Downloads/spring-framework-5.1.1.RELEASE-docs/javadoc-api/org/springframework/beans" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-instrument-tomcat-4.3.20.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-instrument-tomcat-4.3.20.RELEASE.jar!/org/springframework" />
+      <root url="file://$USER_HOME$/Downloads/jar_files" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/spring-framework-5.1.1.RELEASE-docs/javadoc-api/org/springframework" recursive="false" />
+  </library>
+</component>
