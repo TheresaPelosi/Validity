@@ -1,0 +1,5 @@
+How to run:
+
+Add the provided JAR files to the library of the IDE you are running to have the proper imports. The web application
+requires a server to run on, such as GlassFish. Once a server is established, hit run and the program will display 
+the duplicates and non-duplicates.
